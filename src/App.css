@@ -1,0 +1,23 @@
+/* AppStyles.css */
+
+/* Apply styles to the entire body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Apply a common style to your pages */
+.page-container {
+  padding: 20px;
+}
+
+/* Apply a common style to your navigation */
+.nav-container {
+  /* Your navigation styles here */
+}
+
+/* Apply a common style to your menu items */
+.menu-item {
+  /* Your menu item styles here */
+}
